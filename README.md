@@ -1,1 +1,1 @@
-# PROJECTE README # "Fun with tracking branches. "
+# PROJECTE README # "Fun with tracking branches."
